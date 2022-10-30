@@ -9,5 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="textBlue">#3F51B5</color>
     <color name="bgColor">#e9c46a</color>
+    <color name="ligthGrey">#edf2f4</color>
+
 
 </resources>
